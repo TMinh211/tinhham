@@ -1,0 +1,12 @@
+#include <iostream>
+
+// Hàm tính hiệu của hai số nguyên
+int tinhHieu(float a, float b, float c) {
+    return a - b - ;
+}
+
+int main() {
+    int x = 10, y = 7;
+    std::cout << "Hiệu của " << x << " và " << y << " , " << z << " là: " << tinhHieu(x, y, z) << std::endl;
+    return 0;
+}
